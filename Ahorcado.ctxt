@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ahorcado
+comment1.params=
+comment1.target=Ahorcado()
+comment2.params=
+comment2.target=void\ jugar()
+comment3.params=
+comment3.target=boolean\ palabraCompleta()
+comment4.params=
+comment4.target=void\ mostrarEstado()
+comment5.params=scanner
+comment5.target=char\ solicitarLetra(java.util.Scanner)
+comment6.params=letra
+comment6.target=boolean\ letraIntentada(char)
+comment7.params=letra
+comment7.target=boolean\ verificarLetra(char)
+comment8.params=
+comment8.target=void\ mostrarResultadoFinal()
+numComments=9
